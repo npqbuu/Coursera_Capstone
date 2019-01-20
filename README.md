@@ -1,6 +1,7 @@
 # Coursera Capstone Report
 ## 1. Introduction/Business Problem
-Customers want to open a venue in NYC and want to know where are the best locations to setup it.
+New York City is the country's top city for small business for the second year in a row, according to Biz2Credit's annual study of the Top Small Business Cities in America, which analyzed the financial performance of 27,000 small businesses and their local market economic conditions.
+Nowadays, plenty of business owner want to drive their business to NYC. So, there is a question: Where should they open their restaurant, their store or their representative office?
 
 ## 2. Data
 * What are the needed datas?
